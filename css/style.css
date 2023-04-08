@@ -1,0 +1,52 @@
+.logo {
+  margin-top: 33px;
+  margin-left: 50px;
+}
+
+.navigation-list {
+  display: inline-block;
+}
+.navigation-menu-link {
+  margin-right: 40px;
+}
+
+.navigation-menu {
+  display: inline-block;
+  margin-left: 56px;
+}
+
+.navigation-menu-item {
+  display: inline-block;
+}
+
+.navigation-menu-link {
+  font-family: 'Libre Franklin';
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 112%;
+  text-decoration: none;
+  color: #1d1929;
+}
+
+.navigation-trial-link-wrapper {
+  display: inline-block;
+  width: 60%;
+  text-align: right;
+}
+.navigation-trial-link {
+  display: inline-block;
+  font-weight: 700;
+font-size: 14px;
+line-height: 112%;
+  text-decoration: none;
+  
+  color: #1D1929;
+
+/* Yellow/12 */
+padding: 16px;
+background-color: #FFFCEE;
+
+/* Gray/11 */
+border: 1px solid #E8E8EA;
+border-radius: 16px;
+}
